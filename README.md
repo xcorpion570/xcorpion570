@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xcorpion570
-- 👀 I’m interested in Blockchain and python 
+- 👀 I’m interested in Blockchain,python & web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python and c++
 - 📫 How to reach me 
